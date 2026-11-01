@@ -1,0 +1,6 @@
+{
+  "appId": "com.studyflow.app",
+  "appName": "StudyFlow",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
